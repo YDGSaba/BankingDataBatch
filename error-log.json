@@ -1,0 +1,6 @@
+[ {
+  "fileName" : "CustomersError.json",
+  "recordNumber" : 16,
+  "errorCode" : "invalid_customer_birth_date",
+  "errorDate" : 1729509322759
+} ]
